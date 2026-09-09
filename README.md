@@ -1,25 +1,17 @@
 ### Hi, I'm Kenji
 
-Full-stack developer. TypeScript / Next.js / Node.  
-Open to remote roles.
+I run a small studio ([Neziva](https://www.neziva.com)) and take **remote contract / project work**.
 
-I build and ship end-to-end: UI, API, data, deploy.
-
-## Stack
-
-- **Frontend:** TypeScript, Next.js, Vue
-- **Backend:** Node.js, Bun
-- **Other:** PostgreSQL, audio / ffmpeg tooling when needed
+Full-stack. TypeScript, React / Next.js, Node, Hono, PostgreSQL.  
+I ship end-to-end: UI, API, data, deploy.
 
 ## Work
 
-- [DevFolio](https://github.com/KenjiGinjo/DevFolio)
-- [bun-ffmpeg](https://github.com/KenjiGinjo/bun-ffmpeg)
-
-Site: [kenjiginjo.com](https://kenjiginjo.com)
+- [neziva](https://github.com/KenjiGinjo/neziva) — live: [neziva.com](https://www.neziva.com)
 
 ## Contact
 
-Open to roles. Please include **company, stack, location or remote, and salary range**.
+Available for remote projects.  
+Please include **who you are, the stack, scope, and budget**.
 
 Email: kenjiginjo@gmail.com
