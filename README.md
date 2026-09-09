@@ -1,6 +1,26 @@
-Full-stack. TypeScript / Next.js / Node.
+### Hi, I'm Kenji
+
+Full-stack developer. TypeScript / Next.js / Node.  
 Open to remote roles.
 
-Please include: company, stack, location or remote, salary range.
-Site: https://kenjiginjo.com
-Email: （公开一个能收到的）
+I build and ship end-to-end: UI, API, data, deploy.
+
+## Stack
+
+- **Frontend:** TypeScript, Next.js, Vue
+- **Backend:** Node.js, Bun
+- **Other:** PostgreSQL, audio / ffmpeg tooling when needed
+
+## Work
+
+- [academic-sharing](https://github.com/KenjiGinjo/academic-sharing)
+- [DevFolio](https://github.com/KenjiGinjo/DevFolio)
+- [bun-ffmpeg](https://github.com/KenjiGinjo/bun-ffmpeg)
+
+Site: [kenjiginjo.com](https://kenjiginjo.com)
+
+## Contact
+
+Open to roles. Please include **company, stack, location or remote, and salary range**.
+
+Email: kenjiginjo@gmail.com
