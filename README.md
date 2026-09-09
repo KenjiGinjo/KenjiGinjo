@@ -13,7 +13,6 @@ I build and ship end-to-end: UI, API, data, deploy.
 
 ## Work
 
-- [academic-sharing](https://github.com/KenjiGinjo/academic-sharing)
 - [DevFolio](https://github.com/KenjiGinjo/DevFolio)
 - [bun-ffmpeg](https://github.com/KenjiGinjo/bun-ffmpeg)
 
