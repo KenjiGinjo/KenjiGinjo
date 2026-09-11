@@ -8,7 +8,6 @@ TypeScript · React / Next.js · Node / Bun · Hono · PostgreSQL.
 
 - [neziva.com](https://www.neziva.com) — studio site, admin, API. Scope first, then a running AI system in the client's stack.
 - [bun-ffmpeg](https://github.com/KenjiGinjo/bun-ffmpeg) — audio FFmpeg helper for Bun, on npm.
-- [bun-vosk](https://github.com/KenjiGinjo/bun-vosk) — Vosk speech recognition inside Bun.
 
 ## Contact
 
