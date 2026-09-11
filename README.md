@@ -1,17 +1,17 @@
 ### Hi, I'm Kenji
 
-I run a small studio ([Neziva](https://www.neziva.com)) and take **remote contract / project work**.
+I run [Neziva](https://www.neziva.com) — a small studio. I take **remote contract work**: ship the UI, API, data, and deploy.
 
-Full-stack. TypeScript, React / Next.js, Node, Hono, PostgreSQL.  
-I ship end-to-end: UI, API, data, deploy.
+TypeScript · React / Next.js · Node / Bun · Hono · PostgreSQL.
 
-## Work
+## Proof
 
-- [neziva](https://github.com/KenjiGinjo/neziva) — live: [neziva.com](https://www.neziva.com)
+- [neziva.com](https://www.neziva.com) — studio site, admin, API. Scope first, then a running AI system in the client's stack.
+- [bun-ffmpeg](https://github.com/KenjiGinjo/bun-ffmpeg) — audio FFmpeg helper for Bun, on npm.
+- [bun-vosk](https://github.com/KenjiGinjo/bun-vosk) — Vosk speech recognition inside Bun.
 
 ## Contact
 
-Available for remote projects.  
-Please include **who you are, the stack, scope, and budget**.
-
 Email: kenjiginjo@gmail.com
+
+Please include **who you are, the stack, scope, and budget**.
