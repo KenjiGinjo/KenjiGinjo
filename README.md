@@ -1,6 +1,6 @@
 ### Hi, I'm Kenji
 
-I run [Neziva](https://www.neziva.com) — a small studio. I take **remote contract work**: ship the UI, API, data, and deploy.
+I run [Neziva](https://www.neziva.com) — provides enterprise AI implementation. I take **remote contract work**: ship the UI, API, data, and deploy.
 
 TypeScript · React / Next.js · Node / Bun · Hono · PostgreSQL.
 
